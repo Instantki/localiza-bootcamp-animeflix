@@ -42,6 +42,7 @@ header nav a:hover{
 
 /* filme principal */
 .filme-principal{
+    margin-top: 10px;
     font-size: 16px;
     background-image: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50 )100%), url('/assets/capa-house.jpg');
 
@@ -100,4 +101,8 @@ header nav a:hover{
     height: 100%;
     width: 100%;
     display: block;
+}
+
+.carrossel-filmes{
+    margin-top: 15px;
 }
