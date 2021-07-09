@@ -56,9 +56,30 @@ header nav a:hover{
 }
 
 .filme-principal .descricao{
+    margin-top: 10px;
     margin-bottom: 30px;
 }
 
-.titulo{
+.filme-principal .titulo{
+    margin-top: 15%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 36px;
+    
+}
+
+.filme-principal .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 14px;
+    transition: .3s ease-out;
+    cursor: pointer;
+}
+
+.botao:hover{
+    background-color: white;
+    color: #000;
 }
