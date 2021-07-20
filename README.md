@@ -1,6 +1,7 @@
 # Animeflix
 
-Projeto feito como parte do desenvolvimento do bootcamp Localizalabs. Com o intuito de recriar a interface Netflix (versão anime)
+Projeto feito como parte do desenvolvimento do bootcamp Localizalabs ReactJS, ofertado pela [Digital Innovation One](https://digitalinnovation.one/).
+O intuito do projeto é recriar a interface Netflix com uma versão anime.
 
 ![](assets/github/home.png)
 
