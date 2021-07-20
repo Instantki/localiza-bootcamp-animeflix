@@ -1,7 +1,6 @@
 # Animeflix
 
-## Um projeto para recriar a interface Netflix (versão anime)
-
+Projeto feito como parte do desenvolvimento do bootcamp Localizalabs. Com o intuito de recriar a interface Netflix (versão anime)
 
 ![](assets/github/home.png)
 
@@ -12,5 +11,6 @@
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [JQuery](https://jquery.com/)
 
+### Créditos
 
-
+[Felipe Silva Aguiar](https://www.linkedin.com/in/felipe-aguiar-047/)
