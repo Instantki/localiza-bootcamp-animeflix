@@ -12,6 +12,6 @@ O intuito do projeto é recriar a interface Netflix com uma versão anime.
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [JQuery](https://jquery.com/)
 
-### Créditos
+## Créditos
 
-[Felipe Silva Aguiar](https://www.linkedin.com/in/felipe-aguiar-047/) - Instrutor DIO
+Repositório baseado no bootcamp [LocalizaLabs React Developer](https://digitalinnovation.one/bootcamps/localizalabs-react-developer) ministrado por [Felipe Silva Aguiar](https://www.linkedin.com/in/felipe-aguiar-047/)
