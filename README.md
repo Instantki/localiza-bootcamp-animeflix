@@ -14,4 +14,4 @@ O intuito do projeto é recriar a interface Netflix com uma versão anime.
 
 ### Créditos
 
-[Felipe Silva Aguiar](https://www.linkedin.com/in/felipe-aguiar-047/)
+[Felipe Silva Aguiar](https://www.linkedin.com/in/felipe-aguiar-047/) - Instrutor DIO
